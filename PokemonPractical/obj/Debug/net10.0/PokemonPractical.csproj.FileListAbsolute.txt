@@ -1,0 +1,14 @@
+D:\PokemonConsole\PokemonPractical\bin\Debug\net10.0\PokemonPractical.exe
+D:\PokemonConsole\PokemonPractical\bin\Debug\net10.0\PokemonPractical.deps.json
+D:\PokemonConsole\PokemonPractical\bin\Debug\net10.0\PokemonPractical.runtimeconfig.json
+D:\PokemonConsole\PokemonPractical\bin\Debug\net10.0\PokemonPractical.dll
+D:\PokemonConsole\PokemonPractical\bin\Debug\net10.0\PokemonPractical.pdb
+D:\PokemonConsole\PokemonPractical\obj\Debug\net10.0\PokemonPractical.GeneratedMSBuildEditorConfig.editorconfig
+D:\PokemonConsole\PokemonPractical\obj\Debug\net10.0\PokemonPractical.AssemblyInfoInputs.cache
+D:\PokemonConsole\PokemonPractical\obj\Debug\net10.0\PokemonPractical.AssemblyInfo.cs
+D:\PokemonConsole\PokemonPractical\obj\Debug\net10.0\PokemonPractical.csproj.CoreCompileInputs.cache
+D:\PokemonConsole\PokemonPractical\obj\Debug\net10.0\PokemonPractical.dll
+D:\PokemonConsole\PokemonPractical\obj\Debug\net10.0\refint\PokemonPractical.dll
+D:\PokemonConsole\PokemonPractical\obj\Debug\net10.0\PokemonPractical.pdb
+D:\PokemonConsole\PokemonPractical\obj\Debug\net10.0\PokemonPractical.genruntimeconfig.cache
+D:\PokemonConsole\PokemonPractical\obj\Debug\net10.0\ref\PokemonPractical.dll

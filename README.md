@@ -1,3 +1,3 @@
-## C# dotnet Pokemon console practice
+# C# dotnet Pokemon console practice
 
-# pre dot net backend excersice.
+## pre dot net backend excersice.
